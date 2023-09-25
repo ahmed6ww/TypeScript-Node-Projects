@@ -1,6 +1,5 @@
 import inquirer from "inquirer";
 import { quiz } from "./quiz.js";
-quiz;
 async function main() {
     let score = 0;
     let user_answers = [];

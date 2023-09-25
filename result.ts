@@ -1,7 +1,7 @@
 import inquirer from "inquirer";
 import { quiz } from "./quiz.js";
 
-quiz
+
 
 
 
